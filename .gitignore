@@ -1,0 +1,8 @@
+.idea
+build/
+ccdb_tool.egg-info
+venv/
+venv_dev/
+*.class
+**/*.pyc
+**/__pycache__/
