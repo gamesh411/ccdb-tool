@@ -1,6 +1,7 @@
 .idea
 build/
 ccdb_tool.egg-info
+dist/
 venv/
 venv_dev/
 *.class
